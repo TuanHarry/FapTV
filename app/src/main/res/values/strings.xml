@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FapTV</string>
+
+    <string name="action_search">Tìm kiếm</string>
+    <string name="action_favorite">Yêu thích</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="tab_playlist">Danh sách</string>
+    <string name="tab_video">Ưa thích</string>
+    <string name="tab_info">Thông tin kênh</string>
+
+
+    <string name="text_search_hint">Nhập từ khóa …</string>
+    <string name="text_more">Thêm</string>
+    <string name="text_version">Phiên bản %s</string>
+
+    <string name="request_time_out">Request TimeOut </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="video_title">Video Title</string>
+    <string name="video_description">Description for video</string>
+</resources>

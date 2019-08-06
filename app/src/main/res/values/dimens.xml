@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- item size -->
+    <dimen name="_item_playlist_height">170dp</dimen>
+    <dimen name="_item_playlist_videos_height">120dp</dimen>
+    <dimen name="_item_playlist_info_height">55dp</dimen>
+    <dimen name="_item_playlist_video_width">150dp</dimen>
+
+    <dimen name="_dimen_progress_small_size">25dp</dimen>
+    <dimen name="_dimen_progress_big_size">35dp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_25sp">25sp</dimen>
+    <dimen name="dimen_5dp">5dp</dimen>
+
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!-- progress -->
+    <style name="TuanTran.ProgressBar" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:layout_width">@dimen/_dimen_progress_small_size</item>
+        <item name="android:layout_height">@dimen/_dimen_progress_small_size</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_animation</item>
+        <item name="android:indeterminateDuration">1500</item>
+        <item name="android:indeterminateBehavior">repeat</item>
+        <item name="android:visibility">visible</item>
+    </style>
+
+    <style name="TuanTran.ProgressBar.Big" parent="TuanTran.ProgressBar">
+        <item name="android:layout_width">@dimen/_dimen_progress_big_size</item>
+        <item name="android:layout_height">@dimen/_dimen_progress_big_size</item>
+    </style>
+
+</resources>
